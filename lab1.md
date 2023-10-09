@@ -92,3 +92,16 @@ Working Directory is the home directory
 [user@sahara ~]$ cat lecture1
 cat: lecture1: Is a directory
 ```
+When used on a directory it doesn't work and will instead just say that the argument is a directory. It makes sense since cat prints out a file not a directory.
+
+3. On a file as an argument
+
+Working Directory is Lecture1
+``` 
+[user@sahara ~/lecture1]$ cat README
+To use this program:
+
+javac Hello.java
+java Hello messages/en-us.txt
+```
+When used on a file, it prints out the contents of the file into the terminal.
