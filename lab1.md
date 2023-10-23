@@ -91,7 +91,7 @@ cat: lecture1: Is a directory
 ```
 * Working Directory is the home directory
 * When used on a directory it doesn't work and will instead just say that the argument is a directory. It makes sense since cat prints out a file not a directory.
-* This is an error because cat prints out the contents of the file no directories
+* This is an error because cat prints out the contents of the file no directoriescodo
 3. On a file as an argument
 
 
