@@ -10,7 +10,7 @@
 
 ## What are the relevant arguments to those methods, and the values of any relevant fields of the class?
 * The relevant arguments to those methods are the URI url. Also used: add(), format(), size(), getPath(),equals()
-* The relvant fields of the class are the ArrayList hi which keeps track of words put in, the String theOne that is the entire string that holds both the number and the words searched, and the String array parameters which gets the values of the query.
+* The relvant fields of the class are the ArrayList hi and the int num.
 ## How do the values of any relevant fields of the class change from this specific request? If no values got changed, explain why.
 * For the first one
 
@@ -24,8 +24,11 @@ ArrayList hi has one string in it being "The Best Around". Once the second query
 
 # Part 2e
 
-## 1 & 2. Private ssh directory
+## 1 
 ![StringServerCode](Theone.PNG)
+
+## 2 
+![StringServerCode](SSH.PNG)
 
 ## 3. 
 ![StringServerCode](Yes.PNG)
