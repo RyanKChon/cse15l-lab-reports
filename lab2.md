@@ -34,4 +34,7 @@ ArrayList hi has one string in it being "The Best Around". Once the second query
 ![StringServerCode](Yes.PNG)
 
 # Part 3
-Ssh is cool
+The main thing I learned from labs week 2 and 3 was all of the stuff concerning the web server nad URLHandler.
+I've set up a server before but actually interacting with it by inputting different queries was new to me.
+SSHing is something I've also done in the past but I've largely forgot about it so learning it again during lab 
+was a good experince.
