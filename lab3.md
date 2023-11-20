@@ -10,7 +10,6 @@
     System.out.println(Arrays.toString(Hello));
     assertArrayEquals(new int[] {3,2,1}, Hello);
   }
-
 ```
 
 * An input that doesn’t induce a failure, as a JUnit test and any associated code (write it as a code block in Markdown)
