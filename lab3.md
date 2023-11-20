@@ -66,9 +66,9 @@ The problem with the original code is it just made a new array of size arr.lengt
 ## Find Command
 
 * -next (https://linuxhandbook.com/find-command-examples/)
-![hi](Example1(4).PNG)
+![hi](Example1(4).png)
 This allows to find a file or directory with the name starting with bill in any of the within and nested in the working directory
-![hi](Example2(3).PNG)
+![hi](Example2(3).png)
 This command allows us to find any file or directory within a given directory ending in a specific combination of characters
 
 * -type (https://linuxhandbook.com/find-command-examples/)
