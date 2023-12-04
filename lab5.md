@@ -101,7 +101,9 @@ test bash.sh <enter>
 
 How to Fix the Bug
 ```
-Open the test.sh bash script with vim using [vim test.sh]. Scroll down to the java -cp ... by pressing k or the down arrow. Press a in normal mode plus s to append the missing s to ArrayTest. Press esc and :wq to save and exit. run test.sh using [bash test.sh].
+Open the test.sh bash script with vim using [vim test.sh]. Scroll down to the java -cp 
+... by pressing k or the down arrow. Press a in normal mode plus s to append the missing s to ArrayTest.
+ Press esc and :wq to save and exit. run test.sh using [bash test.sh].
 ```
 
 # Part 2
